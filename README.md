@@ -1,43 +1,28 @@
-# AI Weekly Operations Digest
-
-
-## 📌 Project Overview
-
+AI Weekly Operations Digest
+📌 Project Overview
 
 AI Weekly Operations Digest is a retail data analytics project that analyzes weekly business performance using transaction, store, staffing, returns, and promotion data.
 
-
 The project focuses on data cleaning, KPI analysis, store performance, sales channels, promotions, returns, staffing efficiency, and business insights.
 
-
-## 🎯 Objectives
-
-
-- Clean and validate retail datasets
-- Analyze weekly revenue and transactions
-- Compare store performance
-- Analyze online vs in-store sales
-- Analyze promotion performance
-- Analyze returns
-- Measure staffing efficiency
-- Generate business insights using charts and KPIs
-
-
-## 🛠️ Technologies Used
-
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-
-
-## 📂 Project Structure
-
-
-```text
+🎯 Objectives
+Clean and validate retail datasets
+Analyze weekly revenue and transactions
+Compare store performance
+Analyze online vs in-store sales
+Analyze promotion performance
+Analyze returns
+Measure staffing efficiency
+Generate business insights using charts and KPIs
+🛠️ Technologies Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
+📂 Project Structure
+text
 AI-Weekly-Operations-Digest/
 │
 ├── data/
@@ -58,14 +43,12 @@ AI-Weekly-Operations-Digest/
 │
 ├── requirements.txt
 └── README.md
-
-## 📊 Dataset Summary
+📊 Dataset Summary
 Transactions: 8,436
 Returns: 408
 Staffing records: 1,965
 Stores: 5
-
-## 📈 Key Results
+📈 Key Results
 Overall Business Performance
 Total Revenue: 458,347.86
 Total Transactions: 8,436
