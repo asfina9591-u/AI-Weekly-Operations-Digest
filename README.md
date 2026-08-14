@@ -58,14 +58,14 @@ AI-Weekly-Operations-Digest/
 │
 ├── requirements.txt
 └── README.md
-\\\`
 
-📊 Dataset Summary
+## 📊 Dataset Summary
 Transactions: 8,436
 Returns: 408
 Staffing records: 1,965
 Stores: 5
-📈 Key Results
+
+## 📈 Key Results
 Overall Business Performance
 Total Revenue: 458,347.86
 Total Transactions: 8,436
